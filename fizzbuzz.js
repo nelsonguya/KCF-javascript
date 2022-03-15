@@ -13,4 +13,4 @@ function fizzBuzz(a, b) {
     }
 }
 
-fizzBuzz("roland", "sankara12");
+//order//else if

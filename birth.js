@@ -13,3 +13,5 @@ function yearOfBirth() {
 }
 
 yearOfBirth();
+
+//include alert
